@@ -1,0 +1,57 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+
+}
+
+.box1{
+    width:20vw;
+    border:2px solid rgb(225, 221, 221);
+    margin:1vw;
+    box-shadow: 0 10rem 1.5rem #fdfdfd;
+    background-color: rgb(213, 215, 217);
+    
+    
+
+
+
+}
+
+.box1 h3{
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
+
+.box1 h2{
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+}
+
+.box1 button{
+    width:7vw;
+    background-color: rgb(17, 90, 193);
+    color:whitesmoke;
+    border: none;
+    font-weight: 800;
+    padding:0.3rem;
+    
+}
+.box1 img{
+    width:100%;
+   
+}
+
+.formal{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.block{
+    background-color: rgb(212, 214, 216);
+}

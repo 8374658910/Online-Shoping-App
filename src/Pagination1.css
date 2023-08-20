@@ -1,0 +1,18 @@
+.centere{
+   
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.pagenumber1{
+    width:4vw;
+    border:2px solid rgb(196, 196, 195);
+    background-color: black;
+    color:rgb(255, 178, 23);
+    padding:0.3rem;
+    margin-left: 2rem;
+    border-radius: 20%;
+}

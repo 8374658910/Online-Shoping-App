@@ -1,0 +1,39 @@
+.box2{
+    width:20vw;
+    border:2px solid rgb(246, 240, 240);
+    margin:2rem;
+    box-shadow:0 10px 14px #828181;
+   
+    background-color: #f6e4e4;
+}
+.box2 img{
+    width:100%;
+}
+
+.west{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+}
+.western{
+    background-color: rgb(234, 229, 229);
+}
+.box2 h3{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+}
+
+.box2 button{
+    width:8vw;
+    padding:0.5rem;
+    color:white;
+    background-color: rgb(255, 30, 86);
+    font-weight:800;
+    border:none;
+    margin-top: 2rem;
+}
+.box2 span{
+    color:rgb(12, 91, 238);
+    margin:1rem;
+}

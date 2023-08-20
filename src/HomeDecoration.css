@@ -1,0 +1,57 @@
+.box3{
+    width:20vw;
+    border:2px solid rgb(195, 194, 194);
+    box-shadow: 0 0px 15px #ffffff;
+    margin:1.3rem;
+    background-color: #ffffff;
+    
+
+
+
+}
+.box3 img{
+    width:100%;
+}
+.box3 h3{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content: center;
+    margin:0.5rem;
+}
+.box3 button{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:center;
+    width:9vw;
+    background-color: rgb(6, 95, 179);
+    color:#ffffff;
+    padding:0.3rem;
+   
+    font-weight: 700;
+    border:none;
+    
+}
+.box3 span{
+    color:rgb(240, 144, 8);
+    font-weight: 900;
+}
+
+
+.box3 h4{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:center;
+
+}
+.HomeDecoration{
+    background-color: rgb(183, 190, 190);
+   
+}
+.Home1{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    
+}

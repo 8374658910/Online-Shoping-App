@@ -1,0 +1,50 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing:border-box;
+
+}
+
+.box{
+  width:20vw;
+  border:2px solid #fefefe;
+  box-shadow: 0 0 1.5rem #fdfdfd;
+  background-color: aliceblue;
+
+  
+
+
+
+ margin:1rem;
+
+
+}
+
+.carousel{
+  display:flex;
+  justify-content: center;
+}
+.carousel .slide{
+  height:40vh;
+}
+
+.box button{
+  background-color: rgb(7, 98, 188);
+  color:whitesmoke;
+  padding:0.5rem;
+  border:#fefefe;
+  font-weight: 800;
+}
+.box img{
+  width:100%;
+}
+.main{
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  background-color: rgb(181, 181, 181);
+}
+
+
+.total{
+  border-color:rgb(181, 181, 181);
+}

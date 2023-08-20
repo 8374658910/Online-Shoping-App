@@ -1,0 +1,14 @@
+.count{
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+}
+
+.count span{
+      color:blue;
+      border:2px solid rgb(252, 250, 250);
+      width:3vw;
+      border-top:none;      box-shadow: 0 0 2rem #d9d8d8;
+      border-radius:10%;
+}

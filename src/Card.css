@@ -1,0 +1,21 @@
+.boxie{
+    width:15vw;
+ 
+    border: 2px solid black;
+   
+    margin:2rem;
+    line-height: 1.3rem;
+    padding:10px;
+ 
+
+
+}
+
+.boxie img{
+    width:100%;
+}
+.main1{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr 1fr 1fr
+    
+}
